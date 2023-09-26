@@ -1,0 +1,6 @@
+Downloads necessários
+ - Python
+ - Pycharm
+ - Bibliotecas Python:
+    - PyAutoGUI
+    - Time
